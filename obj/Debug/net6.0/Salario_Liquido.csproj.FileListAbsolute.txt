@@ -1,0 +1,15 @@
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Salario_Liquido\bin\Debug\net6.0\Salario_Liquido.exe
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Salario_Liquido\bin\Debug\net6.0\Salario_Liquido.deps.json
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Salario_Liquido\bin\Debug\net6.0\Salario_Liquido.runtimeconfig.json
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Salario_Liquido\bin\Debug\net6.0\Salario_Liquido.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Salario_Liquido\bin\Debug\net6.0\ref\Salario_Liquido.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Salario_Liquido\bin\Debug\net6.0\Salario_Liquido.pdb
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Salario_Liquido\obj\Debug\net6.0\Salario_Liquido.csproj.AssemblyReference.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Salario_Liquido\obj\Debug\net6.0\Salario_Liquido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Salario_Liquido\obj\Debug\net6.0\Salario_Liquido.AssemblyInfoInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Salario_Liquido\obj\Debug\net6.0\Salario_Liquido.AssemblyInfo.cs
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Salario_Liquido\obj\Debug\net6.0\Salario_Liquido.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Salario_Liquido\obj\Debug\net6.0\Salario_Liquido.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Salario_Liquido\obj\Debug\net6.0\ref\Salario_Liquido.dll
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Salario_Liquido\obj\Debug\net6.0\Salario_Liquido.pdb
+C:\Users\Larissa\OneDrive\Documentos\ModalGR\Salario_Liquido\obj\Debug\net6.0\Salario_Liquido.genruntimeconfig.cache
